@@ -1,0 +1,13 @@
+{
+  "type": "oracle",
+  "host": "10.111.201.33",
+  "port": 1551,
+  "username": "btuser",
+  "password": "userbt121",
+  "database": "UAT oracledb",
+  "sid":"btuata",
+  "synchronize": false,
+  "entities": [
+    "dist/entity/*.js"
+  ]
+}
